@@ -5,7 +5,7 @@ The main purpose is getting familiar with data in finance on basis.
 Get along the main file there is a slide to summarize all information.
 
 * DATA
-* 
+
 Assets: 
 
 Bitcoin (BTC-USD) Historical Prices.
