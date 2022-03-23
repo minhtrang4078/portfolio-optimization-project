@@ -15,7 +15,7 @@
 ### Knowledge gained
 - Practice python in statistics
 - Interpreting results of statistic tests  
-- Time series analysis with ARIMA
+- Time series analysis with ARIMA-GARCH 
 - Understanding Modern portfolio theory by Harry Markowitz
 
 ### The data
@@ -32,8 +32,9 @@
 ## Project division
 - PART I – TIME SERIES ANALYSIS
   - Some images from the jupyter notebook:
+    - Checking stationary via AFC plots:
 ![afc sample look](https://github.com/minhtrang4078/portfolio-optimization-project/blob/main/images/afc%20sample%20look.png)
-
+    - Checking results of one of models via plots:
 ![Checking results of model sample look](https://github.com/minhtrang4078/portfolio-optimization-project/blob/main/images/Checking%20results%20of%20model%20sample%20look.png)
   
 - PART II - PORTFOLIO OPTIMIZATION
