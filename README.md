@@ -10,9 +10,9 @@
   - [Project roadmap](#project-roadmap)
 
 ## Short description
-This small project is to understand some chateristics of 3 assets: Gold (GC=F), Crude Oil (CL=F), and Bitcoin (BTC) with 2 parts of time series analysis and portfolio optimization.
-The main purpose is getting familiar with data in finance on basis.
-Get along the main file there is a slide to summarize all information.
+- This small project is to understand some chateristics of 3 assets: Gold (GC=F), Crude Oil (CL=F), and Bitcoin (BTC) with 2 parts of time series analysis and portfolio optimization.
+- The main purpose is getting familiar with data in finance on basis.
+- Get along the main file there is a slide to summarize all information.
 
 ### Choice of algorithm
 Time series analysis with ARIMA
