@@ -31,8 +31,3 @@ Time series analysis with ARIMA
 ## Project division
 - PART I – TIME SERIES ANALYSIS
 - PART II - PORTFOLIO OPTIMIZATION
-
-© 2022 GitHub, Inc.
-Terms
-Privacy
-Security
