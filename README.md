@@ -3,9 +3,8 @@
 ## Contents
 
   - [Short description](#short-description)
-    - [Problem statement](#problem-statement)
-    - [Knowledge gained](#knowledge gained)
-    - [The data](#the-data)
+  - [Knowledge gained](#knowledge-gained)
+  - [The data](#the-data)
   - [Demo video](#demo-video)
   - [Project division](#project-division)
 
