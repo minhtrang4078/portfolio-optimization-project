@@ -32,11 +32,11 @@
 ## Project division
 - PART I – TIME SERIES ANALYSIS
   - Some images from the jupyter notebook:
-![afc sample look](./images/afc sample look.png)
+![afc sample look](https://github.com/minhtrang4078/portfolio-optimization-project/blob/main/images/afc%20sample%20look.png)
 
-![Checking results of model sample look](./images/Checking results of model sample look.png)
+![Checking results of model sample look](https://github.com/minhtrang4078/portfolio-optimization-project/blob/main/images/Checking%20results%20of%20model%20sample%20look.png)
   
 - PART II - PORTFOLIO OPTIMIZATION
   - Visualize the results:
 
-![portfolio optimization sample look](./images/portfolio optimization sample look.png)
+![portfolio optimization sample look](https://github.com/minhtrang4078/portfolio-optimization-project/blob/main/images/portfolio%20optimization%20sample%20look.png)
