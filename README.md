@@ -31,4 +31,10 @@
 
 ## Project division
 - PART I – TIME SERIES ANALYSIS
+  - Some images from the jupyter notebook:
+  ![afc sample look](./images/afc sample look.png)
+  ![Checking results of model sample look](./images/Checking results of model sample look.png)
+  
 - PART II - PORTFOLIO OPTIMIZATION
+  - Visualize the results:
+  ![portfolio optimization sample look](./images/portfolio optimization sample look.png)
