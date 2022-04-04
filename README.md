@@ -11,6 +11,7 @@
 ## Short description
 - This small project is to understand some chateristics of 3 assets: Gold (GC=F), Crude Oil (CL=F), and Bitcoin (BTC) with 2 parts of time series analysis and portfolio optimization (within the assigned assets, not free of choice).
 - The main purpose is getting familiar with data in finance on basis.
+- The jupyter notebook includes detailed comments showing how things works together.
 
 ### Knowledge gained
 - Practice python in statistics
